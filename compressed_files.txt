@@ -1,0 +1,15 @@
+product/data-app/Health/Health.apk.xz
+product/data-app/SmartHome/SmartHome.apk.xz
+product/data-app/MIUIMusicT/MIUIMusicT.apk.xz
+product/app/VoiceAssistAndroidT/VoiceAssistAndroidT.apk.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/app/MiGameService_8550/MiGameService_8550.apk.xz
+product/app/AiAsstVision/AiAsstVision.apk.xz
+product/priv-app/MIUIBrowser/MIUIBrowser.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+system_ext/priv-app/Settings/Settings.apk.xz
+bootRE/boot.elf.xz
+recovery.img.xz
+odm/lib64/libxmi_high_dynamic_range_cdsp.so.xz
